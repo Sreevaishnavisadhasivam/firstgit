@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 helloo ui i am the ui i am the modified ui
+=======
+helloo ui i am the ui 
+>>>>>>> ad31d9d70f873fa0829b5355d4fcb1a617b9769a
